@@ -1,0 +1,12 @@
+{
+  "name": "react-indecision-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Rapid-Learning/react-indecision-app.git",
+  "author": "jayparmar271 <jayparmar271@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
