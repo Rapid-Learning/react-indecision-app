@@ -6,7 +6,12 @@
    npm install
    ```
    
-3. Run the project
+3. Prepare JS to run the app
+   ```
+   babel src/app.js --out-file=public/scripts/app.js --presets=env,react --watch
+   ```    
+  
+4. Run the project
    ```
    live-server public
    ```
