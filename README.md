@@ -5,13 +5,8 @@
    ```
    npm install
    ```
-   
-3. Build the js 
-   ```
-   npm run build
-   ```
   
-4. Run the project
+3. Build the js file and Run the project
    ```
-   npm run serve
+   npm run dev-server
    ```
